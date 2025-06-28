@@ -1,7 +1,9 @@
 # Py-PhotoSort
+
 A simple set of python scripts to help organize your photos:
-- photo_organizer.py sorts photos into folders by year and month
-- rename_folders.py renames subfolders within a folder to a standard formatting of YYYY-MM-Month (e.g. 2025-06-June)
+  - photo_organizer.py sorts photos into folders by year and month
+  - rename_folders.py renames subfolders within a folder to a standard formatting
+
 
 HOW TO USE:
 
